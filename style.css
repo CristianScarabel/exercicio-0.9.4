@@ -1,0 +1,40 @@
+html {
+    height: 100%;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: black
+    
+
+}
+.titulo {
+    display: flex;
+    border-bottom: 1px dotted white;
+
+}
+
+.model1{
+    
+}
+
+h1 {
+    color: white;
+
+    
+
+    
+}
+p {
+    color: white;
+    background-color: #00a884;
+    border-radius: 5px;
+    
+
+}
+.model2 {
+    
+
+
+}
